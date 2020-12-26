@@ -1,8 +1,5 @@
 ### Hi there, 👋 Ravi yadav this side🤗
 
-<!--
-**raviyadav44/raviyadav44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some deep learning projects from kaggle and coursera.
