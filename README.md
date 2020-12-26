@@ -12,10 +12,10 @@
 - ☁ cloud_architecture = ['heroku', 'aws sagemaker']
 - 📒 kaggle_competitions = 2
 
-- 📫 How to reach me:
+### 📫 How to reach me:
 - LinkedIn: https://www.linkedin.com/in/ravi-yadav-471508193/
 - kaggle: https://www.kaggle.com/raviyaduvansi
 - twitter: https://twitter.com/RaviYad94128356
-Note: Please do not spam on the above mentioned profiles😌.
+- Note: Please do not spam on the above mentioned profiles😌.
 
 
