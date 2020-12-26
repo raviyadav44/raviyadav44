@@ -6,7 +6,7 @@
 - 🤔 I’m looking for internships in DSML.
 - 🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community and exploring and doing intresting projects.
 
-- About my skills:
+### About my skills:
 - 💼 skills_with_proficiency = {'Python': 'intermidate', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
 - 🔧 tools = ['numpy', 'pandas', 'sklearn','matplotlib', 'seaborn', 'keras','dtale']
 - ☁ cloud_architecture = ['heroku', 'aws sagemaker']
