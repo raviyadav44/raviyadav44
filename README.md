@@ -1,5 +1,5 @@
 ### Hi there, 👋 Ravi yadav this side🤗
-
+***
 - 🔭 I’m currently working on some deep learning projects from kaggle and coursera.
 - 🌱 I’m currently learning deep learning and computer vision.
 - 👯 I’m looking to collaborate on data science and machine learning projects.
@@ -12,10 +12,12 @@
 - ☁ cloud_architecture = ['heroku', 'aws sagemaker']
 - 📒 kaggle_competitions = 2
 
-### 📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/ravi-yadav-471508193/
-- kaggle: https://www.kaggle.com/raviyaduvansi
-- twitter: https://twitter.com/RaviYad94128356
-- Note: Please do not spam on the above mentioned profiles😌.
+### 📫 Contact me:
+***
+- [LinkedIn](https://www.linkedin.com/in/ravi-yadav-471508193/)
+- [kaggle](https://www.kaggle.com/raviyaduvansi)
+- [twitter](https://twitter.com/RaviYad94128356)
+***
+- Note: Please do not spam on the above mentioned profiles😉.
 
 
