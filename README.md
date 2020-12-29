@@ -11,6 +11,7 @@
 - 🔧 tools = ['numpy', 'pandas', 'sklearn','matplotlib', 'seaborn', 'keras','dtale']
 - ☁ cloud_architecture = ['heroku', 'aws sagemaker']
 - 📒 kaggle_competitions = 2
+- 🔤 languages=Python,C,HTML,SQL
 
 ### 📫 Contact me:
 ***
