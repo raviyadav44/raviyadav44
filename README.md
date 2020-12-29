@@ -15,7 +15,7 @@
 
 ### 📫 Contact me:
 ***
-- [![]()](https://www.linkedin.com/in/ravi-yadav-471508193/)
+- [linkedin](https://www.linkedin.com/in/ravi-yadav-471508193/)
 - [kaggle](https://www.kaggle.com/raviyaduvansi)
 - [twitter](https://twitter.com/RaviYad94128356)
 ***
