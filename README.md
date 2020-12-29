@@ -15,9 +15,9 @@
 
 ### 📫 Contact me:
 ***
-- [linkedin](https://www.linkedin.com/in/ravi-yadav-471508193/)
-- [kaggle](https://www.kaggle.com/raviyaduvansi)
-- [twitter](https://twitter.com/RaviYad94128356)
+- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" />](https://www.linkedin.com/in/ravi-yadav-471508193/)
+- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/kaggle.svg" />](https://www.kaggle.com/raviyaduvansi)
+- [<img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />](https://twitter.com/RaviYad94128356)
 ***
 - Note: Please do not spam on the above mentioned profiles😉.
 
