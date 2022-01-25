@@ -7,11 +7,11 @@
 - 🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community and exploring and doing intresting projects.
 
 ### About my skills:
-- 💼 skills_with_proficiency = {'Python': 'intermidate', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner'}
+- 💼 skills_with_proficiency = {'Python': 'intermidate', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Excel':'Intermidiate','power BI':'intermidiate}
 - 🔧 tools = ['numpy', 'pandas', 'sklearn','matplotlib', 'seaborn', 'keras','dtale']
-- ☁ cloud_architecture = ['heroku', 'aws sagemaker']
+- ☁ cloud_architecture = ['heroku']
 - 📒 kaggle_competitions = 2
-- 🔤 languages=Python,C,HTML,SQL
+- 🔤 languages=Python,C,HTML,SQL,java,R
 
 ### 📫 Contact me:
 ***
