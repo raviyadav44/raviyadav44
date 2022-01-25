@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning deep learning and computer vision.
 - 👯 I’m looking to collaborate on data science and machine learning projects.
 - 🤔 I’m looking for internships in DSML.
-- 🎯 Goal (2020): Contribute openly to Data Science and Machine Learning community and exploring and doing intresting projects.
+- 🎯 Goal (2022): Contribute openly to Data Science and Machine Learning community and exploring and doing intresting projects.
 
 ### About my skills:
 - 💼 skills_with_proficiency = {'Python': 'intermidate', 'SQL': 'Intermidiate', 'DSA': 'Intermidiate', 'HTML & CSS': 'Beginner','Excel':'Intermidiate','power BI':'intermidiate}
